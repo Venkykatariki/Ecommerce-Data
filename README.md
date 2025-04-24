@@ -40,10 +40,8 @@ Screenshots of all 10 queries are included showing results.
 ![Query 6](https://raw.githubusercontent.com/Venkykatariki/Ecommerce-Data/main/Query%206.png)
 
 ### Query 7: Create view for product performance by region
-![Query 7](https://raw.githubusercontent.com/Venkykatariki/Ecommerce-Data/main/Query%207.png)
-
 ### Query 8: Top products by profit margin in the Northeast region
-![Query 8](https://raw.githubusercontent.com/Venkykatariki/Ecommerce-Data/main/Query%208.png)
+![Query 8](https://github.com/Venkykatariki/Ecommerce-Data/blob/main/Query%207%2C8.png)
 
 ### Query 9: Cities with above-average total sales
 ![Query 9](https://raw.githubusercontent.com/Venkykatariki/Ecommerce-Data/main/Query%209.png)
