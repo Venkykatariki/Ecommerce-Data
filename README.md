@@ -19,3 +19,7 @@ This project is part of a Data Analyst Internship and involves running SQL queri
 
 ## Output
 Screenshots of all 10 queries are included showing results.
+## Screenshots
+
+All query outputs are available in the [screenshots]("C:\Users\venka\OneDrive\Pictures\Screenshots\Queries.png") folder.
+
